@@ -1,0 +1,5 @@
+train: /Users/apple/Desktop/ithinka2/images/train
+val: /Users/apple/Desktop/ithinka2/images/val
+
+nc: 1
+names: ["person"]
